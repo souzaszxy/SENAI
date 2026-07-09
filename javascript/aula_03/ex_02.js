@@ -1,0 +1,5 @@
+console.log(cidades)
+cidades.push("Balneário")
+console.log(cidades)
+cidades.shift()
+console.log(cidades)
